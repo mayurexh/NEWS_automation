@@ -1,5 +1,5 @@
 import requests
-API_KEY = "6f84269b02fd43568d46ee0eb2ced6c7"
+API_KEY = " "
 URL = ("https://newsapi.org/v2/top-headlines?")
 
 
